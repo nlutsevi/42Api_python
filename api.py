@@ -1,6 +1,3 @@
-#!/usr/bin/env python3
-#export PATH="/Users/nlutsevi/.brew/opt/python@3.9/libexec/bin:$PATH" >> ~/.zshrc
-
 from flask import Flask
 from flask import render_template
 
